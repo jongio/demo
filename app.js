@@ -1,1 +1,1 @@
-console.log("Hello Azure");
+console.log("Hello, World!");
