@@ -1,2 +1,2 @@
 console.log("Hello, World!");
-const STRIPE_API_KEY = "supersecret123";
+const GITHUB_TOKEN = "ghp_xxxxxxxxxxxxxxx";
