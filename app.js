@@ -1,2 +1,2 @@
 console.log("Hello, World!");
-const GITHUB_TOKEN = "ghp_xxxxxxxxxxxxxxx";
+const GITHUB_TOKEN = "ghp_tokenhere";
