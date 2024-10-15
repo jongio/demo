@@ -1,2 +1,2 @@
 console.log("Hello, World!");
-const dbPassword = "supersecret123";
+const azure_apim_gateway_key = "supersecret123";
